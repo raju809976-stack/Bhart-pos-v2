@@ -17,8 +17,9 @@ local.properties
 .env
 debug.keystore
 
-# Ensure Gradle wrapper is tracked and never ignored
+# Ensure Gradle wrapper and release keystore are tracked and never ignored
 !gradle/wrapper/gradle-wrapper.jar
 !gradle/wrapper/gradle-wrapper.properties
 !gradlew
 !gradlew.bat
+!my-upload-key.jks
