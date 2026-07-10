@@ -1,0 +1,4 @@
+#Fri Jul 10 20:51:51 UTC 2026
+base.0=/workspaces/Bhart-pos-v2/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
